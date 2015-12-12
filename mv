@@ -1,0 +1,1 @@
+mv is the move command, it takes two arguments, a file and directory. The second argument can also be a file and be used to rename argument 1.
